@@ -50,7 +50,8 @@ Users can log in securely, add tasks with file uploads, mark progress (Pending, 
 
 ### Deployment
 
- [front-end](https://taskmanager-six-delta.vercel.app/)
- [Back-end](https://taskmanger-backend-5npl.onrender.com/)
+- **front-end: [vercel link](https://taskmanager-six-delta.vercel.app/)
+
+- **Back-end [on render](https://taskmanger-backend-5npl.onrender.com/)
  
 
